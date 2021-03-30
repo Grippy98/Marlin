@@ -2,8 +2,8 @@
 
 ## Prebuilt FW in that folder as well as Display FW. 
 
-##If not using BLTouch, disable it in settings (uses Probe header, NOT Endstop pins by default)
-##Comes with Filament Sensor enabled by default, disable on display settings.
+## If not using BLTouch, disable it in settings (uses Probe header, NOT Endstop pins by default)
+## Comes with Filament Sensor enabled by default, disable on display settings.
 
 ### Small Quirks are that Rotary Knob is backwards and leveling bed requires heater to be OFF, only Bed can be up to temperature.
 
