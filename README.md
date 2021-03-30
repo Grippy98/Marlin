@@ -1,3 +1,14 @@
+# Andrei's Voxelab Aquilla FW (GD32 & STM32 Universal Version) with BLTouch
+
+## Prebuilt FW in that folder as well as Display FW. 
+
+##If not using BLTouch, disable it in settings (uses Probe header, NOT Endstop pins by default)
+##Comes with Filament Sensor enabled by default, disable on display settings.
+
+### Small Quirks are that Rotary Knob is backwards and leveling bed requires heater to be OFF, only Bed can be up to temperature.
+
+#### Changes are welcome! Please send issues and pull requests!
+
 # Ender 3 V2 Smith3D Firmware & Jyer Firmware Fork (24 March 2021)
 As there are better firmware created by Jyers, soon we will be moving from Marlin fork to Jyer fork. This fork will only be pulling the latest bugfixes from Marlin instead.
 
