@@ -1,6 +1,6 @@
-# Andrei's Voxelab Aquilla FW (GD32 & STM32 Universal Version) with BLTouch
+# Andrei's Voxelab Aquilla FW (GD32 & STM32 Universal Version) + BLTouch
 
-## Prebuilt FW in that folder as well as Display FW. 
+## Prebuilt FW in that folder as well as Display FW. (Update April 6 2021 -> added Manual Bed Leveling prebuilt FW)
 
 ## If not using BLTouch, disable it in settings (uses Probe header, NOT Endstop pins by default)
 ## Comes with Filament Sensor enabled by default, disable on display settings.
